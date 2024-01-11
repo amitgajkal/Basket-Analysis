@@ -58,17 +58,12 @@ basket so there lift comes in the picture
 ## Lift
  - Lift gives strength of the relationship for a basket of two products
  - Lift = (Support of basket) / [(Support of product one)*(Support of product two)]
- - 
+ - Support for basket = 30%
+ - Support of berries = 4/10 = 40%
+ - Support for whipped cream = 5/10 = 50%
+ - Lift = 30/(40*50) = **1.5**
 
-
-
-
-
-
-
-
-
-
-
-
-
+Significance of lift:
+ - lift ~ 1: no correlation between two purchases
+ - lift >1: Two products bought together frequently
+ - lift <1: Two products bought together less frequently 
