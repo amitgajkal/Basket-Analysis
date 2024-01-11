@@ -79,4 +79,4 @@ Significance of lift:
 Click [here](https://www.novypro.com/project/grocery-store-%7C-basket-analysis) for interactive report
 
 # Report
-<img align="right" width="400" src="https://github.com/amitgajkal/Basket-Analysis/blob/main/Resources/Basket.gif" alt="amitgajkal" />
+<img align="left" width="400" src="https://github.com/amitgajkal/Basket-Analysis/blob/main/Resources/Basket.gif" alt="amitgajkal" />
