@@ -46,14 +46,14 @@ For this analysis we need to understand following concepts:
 	Confidence of whipped cream = 30/50 = **60%**
 
 Significance of confidence:
-	- This means there is a more chance of someone buying whipped cream, when they have already added 
- 	berries to their basket
- 	- Confidence is more for berries to influence the purchase of
-	whipped cream (75%)
- 	- Confidence indicates the direction of cross selling. If someone buys berries there is more 
-  	chance to buy whipped cream than other way around
-   	- Confidence does not provide the strength of the relationship between the two products in 
-    	basket so there lift comes in the picture
+- This means there is a more chance of someone buying whipped cream, when they have already added 
+berries to their basket
+- Confidence is more for berries to influence the purchase of
+whipped cream (75%)
+- Confidence indicates the direction of cross selling. If someone buys berries there is more 
+chance to buy whipped cream than other way around
+- Confidence does not provide the strength of the relationship between the two products in 
+basket so there lift comes in the picture
 
 
 
