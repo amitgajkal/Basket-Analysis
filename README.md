@@ -55,10 +55,20 @@ chance to buy whipped cream than other way around
 - Confidence does not provide the strength of the relationship between the two products in 
 basket so there lift comes in the picture
 
-
-
-
-
-
 ## Lift
+ - Lift gives strength of the relationship for a basket of two products
+ - Lift = (Support of basket) / [(Support of product one)*(Support of product two)]
+ - 
+
+
+
+
+
+
+
+
+
+
+
+
 
