@@ -67,3 +67,11 @@ Significance of lift:
  - lift ~ 1: no correlation between two purchases
  - lift >1: Two products bought together frequently
  - lift <1: Two products bought together less frequently 
+
+----------------------------------------------------------------------------------------------------------
+
+## The utility of basket analysis extends beyond the aforementioned applications and can be effectively leveraged in diverse scenarios, including:
+ - Enhancing the analysis of website page visits to discern patterns and optimize user experience.
+ - Analyzing questions raised in support tickets to identify correlations and improve support processes.
+ - Optimizing menu offerings in restaurants by scrutinizing the patterns of dishes ordered, thereby informing strategic decisions in menu design and promotions.
+
