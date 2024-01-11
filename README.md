@@ -9,7 +9,7 @@ Basket Analysis (for Grocery Store) can help in following:
   - Formulating pricing, sales, and discount strategies for encouraging the simultaneous purchase of specific products.
 
 For this analysis we need to understand following concepts:
-## Support
+## Support <img align="right" width="400" src="https://github.com/amitgajkal/Basket-Analysis/blob/main/Resources/Support.png" alt="amitgajkal" />
   - It indicates the % of transactions that include two specific products
   - Support indicates the frequency of the products being bought together
                              
@@ -26,7 +26,7 @@ For this analysis we need to understand following concepts:
 
 **High support means basket stats are reliable and makes the basket financially more interesting**
 
-## Confidence
+## Confidence <img align="right" width="400" src="https://github.com/amitgajkal/Basket-Analysis/blob/main/Resources/Confidence.png" alt="amitgajkal" />
   - % transactions that contains the two products together, out of the transactions containing one of the two products. 
 
 	Confidence is calculated for each of the products from the basket separately 
@@ -55,7 +55,7 @@ chance to buy whipped cream than other way around
 - Confidence does not provide the strength of the relationship between the two products in 
 basket so there lift comes in the picture
 
-## Lift
+## Lift <img align="right" width="400" src="https://github.com/amitgajkal/Basket-Analysis/blob/main/Resources/Lift.png" alt="amitgajkal" />
  - Lift gives strength of the relationship for a basket of two products
  - Lift = (Support of basket) / [(Support of product one)*(Support of product two)]
  - Support for basket = 30%
