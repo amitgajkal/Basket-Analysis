@@ -1,4 +1,4 @@
-Basket-Analysis
+# Basket-Analysis
 It is a technique used to uncover the association between items. It uncovers the products commonly bought together.
 It is often called Market Basket Analysis. 
 
