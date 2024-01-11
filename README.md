@@ -1,4 +1,4 @@
-![image](https://github.com/amitgajkal/Basket-Analysis/assets/19805627/61c6bd1e-11e8-4d3e-9944-09c9bce3142d)# Basket-Analysis
+Basket-Analysis
 It is a technique used to uncover the association between items. It uncovers the products commonly bought together.
 It is often called Market Basket Analysis. 
 
@@ -12,10 +12,9 @@ For this analysis we need to understand following concepts:
 ## Support
   - It indicates the % of transactions that include two specific products
   - Support indicates the frequency of the products being bought together
-                             Number of transactions including both products
-	Support = ------------------------------------------------------------------------------------
-	                             Total number of products
-
+                             
+	Support = (Number of transactions including both products) / (Total number of products)
+	                             
 For example,
 For Berries and whipped cream
 
@@ -31,16 +30,11 @@ Support for basket = 3/10 = 30%
   - % transactions that contains the two products together, out of the transactions containing one of the two products. 
 
 	Confidence is calculated for each of the products from the basket separately 
+								                          
+	Confidence of product one = (Support of Basket) / (Support of product one)
 	
-							                          Support of Basket
-	Confidence of product one = ----------------------------------------- 
-						                         Support of product one
+	Confidence of product two = (Support of Basket) / (Support of product two)
 	
-	
-							                            Support of Basket
-	Confidence of product two = ----------------------------------------- 
-				                             Support of product two
-
 	Support for basket = 30%
 	
 	Support of berries = 4/10 = **40%**
