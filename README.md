@@ -75,3 +75,8 @@ Significance of lift:
  - Analyzing questions raised in support tickets to identify correlations and improve support processes.
  - Optimizing menu offerings in restaurants by scrutinizing the patterns of dishes ordered, thereby informing strategic decisions in menu design and promotions.
 
+
+Click [here]([url](https://www.novypro.com/project/grocery-store-%7C-basket-analysis)) for interactive report
+
+# Report
+<img align="right" width="400" src="https://github.com/amitgajkal/Basket-Analysis/blob/main/Resources/Basket.gif" alt="amitgajkal" />
